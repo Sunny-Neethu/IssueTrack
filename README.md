@@ -23,3 +23,6 @@ Admin dashboard Page
 The new item page allows the user to specify the details associated with their issue and submit it. Upon submission, the user is redirected to the main page.
 
 Main page looks like this:
+<br>
+<br>
+<img src="https://github.com/Sunny-Neethu/Sunny-Neethu/blob/main/images/IssueTrack.PNG" height="80%" width="80%" alt="dashboard"/>
